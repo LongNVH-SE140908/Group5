@@ -1,0 +1,14 @@
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\bin\Debug\QLTimKiemSv.exe.config
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\bin\Debug\QLTimKiemSv.exe
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\bin\Debug\QLTimKiemSv.pdb
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\bin\Debug\EntityFramework.dll
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\bin\Debug\EntityFramework.xml
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\obj\Debug\QLTimKiemSv.csproj.AssemblyReference.cache
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\obj\Debug\QLTimKiemSv.Properties.Resources.resources
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\obj\Debug\QLTimKiemSv.csproj.GenerateResource.cache
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\obj\Debug\QLTimKiemSv.csproj.CoreCompileInputs.cache
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\obj\Debug\QLTimKiemSv.exe
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\obj\Debug\QLTimKiemSv.pdb
+C:\Users\longl\Desktop\group\Group5\QLTimKiemSv\QLTimKiemSv\obj\Debug\QLTimKiemSv.Form1.resources
